@@ -1,4 +1,36 @@
 
 .ui.borderless.topmenu.menu {
+  background-color: transparent;
+  box-shadow: none;
   border: none;
+  color: #05728c;
+}
+
+.ui.borderless.topmenu.menu .ui.container ui.transparent.left.icon.input.item {
+  border-bottom: solid 2px;
+}
+
+.ui.borderless.topmenu.menu .ui.container .right.item {
+  color: #05728c;
+}
+
+.ui.borderless.topmenu.menu .ui.container .item {
+  color: #05728c;
+}
+
+
+.ui.borderless.middle.menu {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+}
+
+.mainPicture {
+  width: 95%;
+  margin-right: 10px;
+  margin-left: 35px;
+}
+
+.center.item {
+  font-family: "Avenir LT W02 45 Book",sans-serif;
 }
